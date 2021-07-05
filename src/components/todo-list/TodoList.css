@@ -1,0 +1,24 @@
+ul {
+    display: inline-block;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.kode {
+    color:black;
+}
+
+.nama {
+    color: brown;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.pekerjaan{
+    color:black;
+    font-weight:500;
+    font-style: italic;
+}
